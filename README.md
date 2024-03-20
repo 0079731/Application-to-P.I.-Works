@@ -18,7 +18,7 @@ A table listing all users with the following columns at the left of the page:
 - `Enabled`: Indicates whether the user account is active or not
 
 ####User List Example
-| ID (![filter photo](filter.png))| User Name (![filter photo](filter.png))| Email (![filter photo](filter.png))| Enabled (![filter photo](filter.png) |
+| ID ![filter photo](filter.png)| User Name ![filter photo](filter.png)| Email ![filter photo](filter.png)| Enabled ![filter photo](filter.png |
 | ----------- | ----------- | ----------- | ----------- |
 | 1  | AdminUser | admin@piworks.net | true |
 | 2  | Test User  | testuser@piworks.net | true |
