@@ -52,3 +52,9 @@ The system should handle the following errors and provide feedback accordingly:
 - Duplicate username or email
 - Invalid email or phone format
 - Submitting empty required fields
+
+## Order of Tasks for User Enrolling
+
+- [ ] Fill out the New User form with the required details
+- [ ] Click the "Save User" button to submit the form
+- [ ] Verify that the new user's name appears in the “User List”
