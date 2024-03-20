@@ -2,7 +2,7 @@
 question 5
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
-# User Interface Specification
+==User Interface Specification==
 
 ## Introduction
 This document outlines the specifications for the user management screen of our application. It is intended for software developers who will be implementing the user interface. The screen can list users, add new users, and toggle the visibility of disabled users.
@@ -17,7 +17,7 @@ A table listing all users with the following columns at the left of the page:
 - `Email`: Email address of the user
 - `Enabled`: Indicates whether the user account is active or not
 
-###==User List Example==
+###User List Example
 | ID ![filter photo](filter.png)| User Name ![filter photo](filter.png)| Email ![filter photo](filter.png)| Enabled ![filter photo](filter.png) |
 | ----------- | ----------- | ----------- | ----------- |
 | 1  | AdminUser | admin@piworks.net | true |
