@@ -56,5 +56,5 @@ The system should handle the following errors and provide feedback accordingly:
 ## Order of Tasks for User Enrolling
 
 1. Fill out the New User form with the required details
-2. Click the "Save User" button to submit the form
-3. Verify that the new user's name appears in the “User List”
+2. Click the **"Save User" button** to submit the form
+3. Verify that the new user's name appears in the User List
