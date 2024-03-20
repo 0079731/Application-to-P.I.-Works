@@ -2,7 +2,7 @@
 question 5
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
-==User Interface Specification==
+# User Interface Specification
 
 ## Introduction
 This document outlines the specifications for the user management screen of our application. It is intended for software developers who will be implementing the user interface. The screen can list users, add new users, and toggle the visibility of disabled users.
